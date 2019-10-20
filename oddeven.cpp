@@ -3,7 +3,7 @@
 int main()
 {
 int x;
-cout<<"enter the no";
+cout<<"enter the no. of your choice";
 cin>>x
 if(x%2==0)
 cout<<"the no is even";
